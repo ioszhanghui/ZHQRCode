@@ -16,8 +16,8 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "ZHQRCode"
-  s.version      = "0.0.1"
-  s.summary      = "二维码生成iOS和Android通用"
+  s.version      = "1.0"
+  s.summary      = "二维码生成工具"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
